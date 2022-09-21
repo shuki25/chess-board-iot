@@ -3029,7 +3029,7 @@
     (effects (font (size 1.5 1.5)) (justify left bottom))
     (uuid 054bc907-1dda-4ac0-90b1-477ae68b6976)
   )
-  (text "USB to TTL\nAuto Program Circuit" (at 107.95 171.45 180)
+  (text "USB to UART\nAuto Program Circuit" (at 107.95 171.45 180)
     (effects (font (size 1.5 1.5) italic) (justify right bottom))
     (uuid 21427096-bab2-4c66-b8e1-63aa46ca1d09)
   )
