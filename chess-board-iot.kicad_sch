@@ -5920,7 +5920,7 @@
     (property "Reference" "#PWR0101" (id 0) (at 55.88 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 55.88 16.51 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 16.51 0))
     (property "Footprint" "" (id 2) (at 55.88 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7977,196 +7977,196 @@
       (reference "U305") (unit 1) (value "PCA9535C") (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/a9a6e5a1-18f1-45d4-977c-1c70fae31d6e"
-      (reference "U401") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U401") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/b6059216-4093-492f-b2f5-73bef54b6823"
-      (reference "U402") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U402") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/bc88def0-3f98-4337-bbf5-375a135cd0c4"
-      (reference "U403") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U403") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/e1a7a52e-d034-4b45-918b-7e8ac4a48026"
-      (reference "U404") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U404") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/466e7b3d-9753-4e1c-be97-29074b27668c"
-      (reference "U405") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U405") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/00987d6c-fb3d-4ff9-ac34-bb2aec9ffb16"
-      (reference "U406") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U406") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/1379c5f3-2c81-40b2-973e-517e91a97745"
-      (reference "U407") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U407") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/20735818-f02f-45c0-891a-c021f067d2e5"
-      (reference "U408") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U408") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/bfbd0667-3c32-4b5b-af73-ae22f04e84a8"
-      (reference "U409") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U409") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/0cf7da6f-69c6-440f-b3c0-da0dd05e11c2"
-      (reference "U410") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U410") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/e3f895eb-62ff-4b79-b8dc-9ffcbf20a917"
-      (reference "U411") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U411") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/2408ddf3-80f5-4848-b1a2-fc6c4b093cfd"
-      (reference "U412") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U412") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/65ab576f-383f-4f96-8f49-882588118e04"
-      (reference "U413") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U413") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/6ee74a73-4f49-4d1c-9f3e-175fbf709a29"
-      (reference "U414") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U414") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/b8215899-92aa-49dd-b9d2-0afffa73b52f"
-      (reference "U415") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U415") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/7c2289f0-0d0b-474f-83f8-c23be2c69f88"
-      (reference "U416") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U416") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/ffb28155-4506-4fbf-ba67-3f3adf14c1e6"
-      (reference "U417") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U417") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/485a348c-55e9-49ac-879a-4a444bdf0943"
-      (reference "U418") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U418") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/fa7fc406-c84e-4a82-ae2b-fc4eac56fd65"
-      (reference "U419") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U419") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/3e13f34f-b2e6-42e9-a2e1-2b7ebe1b79b3"
-      (reference "U420") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U420") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/1abff3b0-fb4c-4fae-8806-3f05918ada3a"
-      (reference "U421") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U421") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/9ee3c2d4-de50-42b9-9226-1522ab401864"
-      (reference "U422") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U422") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/59b59f36-c847-41d7-a2fa-b908797a1235"
-      (reference "U423") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U423") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/69ef6a15-03bc-42d7-a0e4-09afed8dfbf3"
-      (reference "U424") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U424") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/0ca9eac8-6624-40d6-9944-57874d2c895a"
-      (reference "U425") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U425") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/9288792b-56b0-4698-a267-824dd4b419e5"
-      (reference "U426") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U426") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/95c98aa3-2129-450b-84c8-a1d72f7fed2e"
-      (reference "U427") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U427") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/3cbd3493-bb88-4a9f-b581-a0e008d452bd"
-      (reference "U428") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U428") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/2c27ddbf-2e4d-4c28-aac9-9c831b289d87"
-      (reference "U429") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U429") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/76ad1ad1-8aae-4511-bad9-98ed4497efd1"
-      (reference "U430") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U430") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/a466808e-f0b3-4f10-aebd-ed584d1c5bfb"
-      (reference "U431") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U431") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/acf0bedb-0b04-41eb-8af3-da405b94fe30"
-      (reference "U432") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U432") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/55513695-73ef-4d57-b296-71290a91320a"
-      (reference "U433") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U433") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/f8b6b750-7c10-42cd-be44-4f1103e4eabc"
-      (reference "U434") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U434") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/b965ef70-b91d-479b-978e-6d7090501a90"
-      (reference "U435") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U435") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/f11acbaa-10f0-48aa-a995-8ddaa9ba24ab"
-      (reference "U436") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U436") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/4c1b9e96-ef84-44a0-8099-dc04414ac293"
-      (reference "U437") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U437") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/600e431e-4dbd-49e0-8a66-f1778356e1ad"
-      (reference "U438") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U438") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/f816aada-1931-468d-a172-ff2ce7e9cbc1"
-      (reference "U439") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U439") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/b0160436-9922-463f-b66e-4d4209227838"
-      (reference "U440") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U440") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/dfe7d6a6-62b6-4900-8786-65ac228eda25"
-      (reference "U441") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U441") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/799a19ec-9690-4d2c-b8e2-00616f713876"
-      (reference "U442") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U442") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/ff4237da-6abb-415c-a654-6437cf963596"
-      (reference "U443") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U443") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/e4cdafee-7d13-43a4-99d2-296af77ac6f0"
-      (reference "U444") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U444") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/d224dc0f-e66b-4aa7-b697-74df33c760ff"
-      (reference "U445") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U445") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/09e9fcdc-2c5a-440b-962f-33a9b089274d"
-      (reference "U446") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U446") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/2ff2fe96-942a-44ae-830c-ad814bc0bab6"
-      (reference "U447") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U447") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/95b5621e-fab4-4d72-9616-bbfe5ccbaf71"
-      (reference "U448") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U448") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/f1b171c7-3008-4092-9732-0083eda01101"
-      (reference "U449") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U449") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/368f64b5-4e9a-4005-bf33-7ca760fe4840"
-      (reference "U450") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U450") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/51f16ed4-130d-449b-802a-0f9eae92ea42"
-      (reference "U451") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U451") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/df078aa2-2a58-402c-9884-bd8b5427724a"
-      (reference "U452") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U452") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/5c718bb4-499d-43bb-a1d3-2fe075ea1a46"
-      (reference "U453") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U453") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/e6755df5-091f-4dab-a03f-450a0eb6e6a0"
-      (reference "U454") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U454") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/63eb0cf0-49d0-44c9-a244-02edf68e0365"
-      (reference "U455") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U455") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/b79bd438-4d64-4b2f-9b4d-9bd24b4f21a3"
-      (reference "U456") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U456") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/e8e69652-e3a7-4412-9c02-58e00310a130"
-      (reference "U457") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U457") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/c8c688be-5c17-4360-b319-2bb99e3ba2d9"
-      (reference "U458") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U458") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/ad7f5972-d88a-490c-9e4e-b6dd238f0025"
-      (reference "U459") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U459") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/2e80453c-04f6-4d50-a6bd-d86170a8ba5f"
-      (reference "U460") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U460") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/41b44b62-8f35-4bc7-98f7-11164709c1d8"
-      (reference "U461") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U461") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/bd6f9cd4-a2cf-4cc9-b8cd-6274b1b37368"
-      (reference "U462") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U462") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/4ca5bb1b-129b-4913-9136-e33e6848e9d7"
-      (reference "U463") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U463") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/47291ffe-21ee-461c-8683-ec4491b2f569"
-      (reference "U464") (unit 1) (value "UHE4913") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U464") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
     )
   )
 )
