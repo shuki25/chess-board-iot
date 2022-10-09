@@ -5601,7 +5601,7 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf" (id 3) (at 278.13 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C701341" (id 4) (at 285.75 57.15 0)
+    (property "LCSC" "C701342" (id 4) (at 285.75 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 78a2f99d-72a6-4429-bb35-17b07bde7818))
@@ -7434,7 +7434,7 @@
       (reference "H109") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO7380")
     )
     (path "/582a69f8-5434-4554-917e-70d2bc28584c"
-      (reference "J101") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500")
+      (reference "J101") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "User Custom Footprint:USB_C_Receptable_918-418K2023S40001")
     )
     (path "/64f954f3-8828-4c30-b54d-fa7a7ce114c2"
       (reference "J102") (unit 1) (value "Conn_01x03") (footprint "User Custom Footprint:Slide_Switch_SPDT_SS-12D06L5")
@@ -7953,7 +7953,7 @@
       (reference "U101") (unit 1) (value "XC6220B331MR-G") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/7531744a-adfd-462a-a28f-135299bc08b0"
-      (reference "U102") (unit 1) (value "ESP32-WROOM-32E") (footprint "RF_Module:ESP32-WROOM-32")
+      (reference "U102") (unit 1) (value "ESP32-WROOM-32E (8MB)") (footprint "RF_Module:ESP32-WROOM-32")
     )
     (path "/bbc54aa5-5efc-46ea-83fa-f9acfbcc058f"
       (reference "U103") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
