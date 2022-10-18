@@ -6,7 +6,7 @@
 
   (title_block
     (title "Chess Board IOT")
-    (date "2022-10-13")
+    (date "2022-10-17")
     (rev "A")
     (company "Butler Electronics")
     (comment 1 "Design by Joshua Butler, MD, MHI")
@@ -6303,18 +6303,6 @@
     (pin "1" (uuid 5b2950f2-8507-49d0-82d7-a3219611ff71))
   )
 
-  (sheet (at 124.46 177.8) (size 33.02 22.86) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 2cba3c02-6621-4821-9c99-ae1947b33125)
-    (property "Sheet name" "Buck Converter" (id 0) (at 124.46 177.0884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "buck_converter.kicad_sch" (id 1) (at 124.46 201.2446 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-  )
-
   (sheet (at 13.97 177.8) (size 33.02 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -6356,7 +6344,6 @@
     (path "/57976fb6-67d6-4a0e-9192-ad3bca92f7eb" (page "2"))
     (path "/dd7b36d6-edb3-405d-85c2-82cc4203666c" (page "4"))
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4" (page "5"))
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125" (page "5"))
   )
 
   (symbol_instances
@@ -6386,12 +6373,6 @@
     )
     (path "/af5360d6-8780-48b2-b308-763197580c02"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/4054bf7c-ed95-422f-9780-32ad24300a9e"
-      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/3ca443f0-ea30-4925-8d82-08f3e9f10fcb"
-      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/5dbfae8c-9480-475b-9278-829262d21cce"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
@@ -7143,27 +7124,6 @@
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/413e5786-31d3-4331-80cb-87efad08e65a"
       (reference "C464") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/c556e849-514e-4d94-baaa-e2fb49152ab8"
-      (reference "C501") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/3baea911-fc9a-4a51-856e-07dd7478443a"
-      (reference "C502") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/07cc2cf1-d7f1-4c11-8fc2-85d63de65da1"
-      (reference "C503") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/83314601-2f7d-4108-8e80-462f4afb2566"
-      (reference "C504") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/f8f0f618-0ffd-4dc3-bae2-7c0a6807c2e1"
-      (reference "C505") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/25ac1e61-34ec-4246-b7f9-bfecc2bb509d"
-      (reference "C506") (unit 1) (value "1nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/2ef7a46f-1777-4e41-84ce-5811a5faa597"
-      (reference "C507") (unit 1) (value "8.2nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
     (path "/49a9d7f1-a588-4ad2-b5d1-ad10c25e1b2b"
       (reference "D101") (unit 1) (value "RClamp0524PATCT") (footprint "User Custom Footprint:SLP2510P8")
     )
@@ -7359,9 +7319,6 @@
     (path "/57976fb6-67d6-4a0e-9192-ad3bca92f7eb/a8092657-d75b-4572-ae12-2b0954bb3a6b"
       (reference "D264") (unit 1) (value "WS2813C") (footprint "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm")
     )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/87e412d9-78da-45ea-bf20-817fea246726"
-      (reference "D501") (unit 1) (value "D_Schottky_Small") (footprint "Diode_SMD:D_SMA")
-    )
     (path "/93db65ef-2998-46f8-9a92-6ea4cd0e8ae5"
       (reference "F101") (unit 1) (value "C207047") (footprint "Fuse:Fuse_1210_3225Metric")
     )
@@ -7406,9 +7363,6 @@
     )
     (path "/581c78db-bda5-4cb0-b599-7d9222b1cd6d"
       (reference "L101") (unit 1) (value "L_Ferrite_Small") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/2824ab54-428a-4677-baff-74b7123166dc"
-      (reference "L501") (unit 1) (value "3.3uH") (footprint "User Custom Footprint:L_4.0x4.0_H2.6")
     )
     (path "/1f67b0ac-5c7d-4dd9-80c1-04c16b0192e4"
       (reference "LED101") (unit 1) (value "BLUE") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -7905,15 +7859,6 @@
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/ef31354f-bee1-4105-8ba0-df7061517bb5"
       (reference "R464") (unit 1) (value "2K7") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/5bca96fa-d004-4c9a-80c2-af95bf154d29"
-      (reference "R501") (unit 1) (value "10K2") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/1cc83fe6-5359-419f-9a58-a72b62e54cf6"
-      (reference "R502") (unit 1) (value "24K9") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/fd3d4681-fe68-462e-8583-9b8d3cb1987e"
-      (reference "R503") (unit 1) (value "3K24") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
     (path "/3eee5851-fa4c-4797-81b3-a82a514a8268"
       (reference "SW104") (unit 1) (value "SW_SPST") (footprint "User Custom Footprint:Button_SW_12mm_1.8mm_hole")
     )
@@ -8156,9 +8101,6 @@
     )
     (path "/bee0bfe3-a22e-4053-aac2-d61040bc25d4/47291ffe-21ee-461c-8683-ec4491b2f569"
       (reference "U464") (unit 1) (value "UHE4913") (footprint "User Custom Footprint:SOT-23-12_Flipped")
-    )
-    (path "/2cba3c02-6621-4821-9c99-ae1947b33125/cac9c82e-7499-4f7f-b4fc-0f389d140e7f"
-      (reference "U501") (unit 1) (value "TPS54331DR") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )
