@@ -6,6 +6,7 @@
 
   (title_block
     (title "Smart Chessboard - Addressable RGB LEDs")
+    (date "2022-10-13")
     (rev "A")
     (company "Butler Electronics")
     (comment 1 "Design by Joshua Butler, MD, MHI")

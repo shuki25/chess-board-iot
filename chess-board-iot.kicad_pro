@@ -537,6 +537,10 @@
     [
       "bee0bfe3-a22e-4053-aac2-d61040bc25d4",
       "Hall Sensors"
+    ],
+    [
+      "2cba3c02-6621-4821-9c99-ae1947b33125",
+      "Buck Converter"
     ]
   ],
   "text_variables": {}
