@@ -6166,7 +6166,7 @@
     (property "Datasheet" "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" (id 3) (at 65.405 60.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3029025" (id 4) (at 62.23 63.5 0)
+    (property "LCSC" "C7074" (id 4) (at 62.23 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dd38f03b-2c89-4f97-8d70-12119c172ab3))
