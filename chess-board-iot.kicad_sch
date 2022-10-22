@@ -6160,7 +6160,7 @@
     (property "Value" "SP0503BAHT" (id 1) (at 68.58 64.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-143" (id 2) (at 67.945 64.77 0)
+    (property "Footprint" "User Custom Footprint:SOT-143-4" (id 2) (at 67.945 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" (id 3) (at 65.405 60.325 0)
@@ -8171,7 +8171,7 @@
       (reference "U102") (unit 1) (value "ESP32-WROOM-32E (8MB)") (footprint "RF_Module:ESP32-WROOM-32")
     )
     (path "/bbc54aa5-5efc-46ea-83fa-f9acfbcc058f"
-      (reference "U103") (unit 1) (value "SP0503BAHT") (footprint "Package_TO_SOT_SMD:SOT-143")
+      (reference "U103") (unit 1) (value "SP0503BAHT") (footprint "User Custom Footprint:SOT-143-4")
     )
     (path "/a8872555-0f46-431c-a343-cfc377bc0ae4"
       (reference "U104") (unit 1) (value "PCA9548APW") (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
