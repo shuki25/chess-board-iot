@@ -6,8 +6,8 @@
 
   (title_block
     (title "Smart Chessboard - I/O Expander")
-    (date "2022-10-17")
-    (rev "A")
+    (date "2022-11-08")
+    (rev "B")
     (company "Butler Electronics")
     (comment 1 "Design by Joshua Butler, MD, MHI")
   )
